@@ -1,4 +1,5 @@
 📄 Leave Certificate Generator
+
 A full stack web application designed to simplify the process of generating official leave certificates for students or employees. Built with [mention your stack here, e.g., MERN stack / Django + React / Flask + HTML-CSS], this project provides a seamless workflow from leave request submission to admin approval and PDF generation.
 
 🚀 Features
